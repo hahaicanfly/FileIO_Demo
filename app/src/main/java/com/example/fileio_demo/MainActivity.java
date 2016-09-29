@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         //decide path to save file when app Launch
         CheckSDCard();
+        //init UI
         init();
 
     }
